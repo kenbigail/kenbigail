@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kenbigail.business@gmail.com**
 
-- ⚡ Fun fact **I'm an Extrovert and i do Public Speaking routinely.**
+- ⚡ Fun fact **I'm an Extrovert and i like to socialize with others.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
