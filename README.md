@@ -1,5 +1,5 @@
 <h1 align="center">Hello folks 👋, I'm Muhammad Keenan Abigail</h1>
-<h3 align="center">Pendekar Software Team Leader. Software Developer, Software Engineer, UI Designer and Data Analyst.</h3>
+<h3 align="center">Pendekar Software Team Leader. Developer, Engineer and Data Analyst.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenbigail&label=Profile%20views&color=0e75b6&style=flat" alt="kenbigail" /> </p>
 
