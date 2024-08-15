@@ -1,19 +1,17 @@
 <h1 align="center">Hello folks 👋, I'm Muhammad Keenan Abigail</h1>
-<h3 align="center">Pendekar Groups Founder. Developer, Engineer and Data Analyst.</h3>
+<h3 align="center">DigiTeam Founder. Developer, Engineer and Data Analyst.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenbigail&label=Profile%20views&color=0e75b6&style=flat" alt="kenbigail" /> </p>
 
-- 🔭 I’m currently working on **EduLearn**
+- 🔭 I’m currently working on **Cinemate : Book Cinemas with Ease**
 
-- 🌱 I’m currently learning **javaScript and Python**
-
-- 🤝 I’m looking for help with **javaScript Databases, SQL and Python**
+- 🌱 I’m currently learning **Flutter and Firebase**
 
 - 👨‍💻 All of my projects are available at [bento.me/kenbigail](bento.me/kenbigail)
 
-- 💬 Ask me about **HTML, CSS, Kotlin**
+- 💬 Ask me about **HTML, CSS, JavaScript, Laravel, Kotlin, Dart**
 
-- 📫 How to reach me **kenbigail.business@gmail.com**
+- 📫 How to reach me **keenanabigailidn@gmail.com**
 
 - ⚡ Fun fact **I'm an Extrovert and i like to socialize with others.**
 
