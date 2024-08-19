@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [bento.me/kenbigail](bento.me/kenbigail)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Laravel, Kotlin, Dart**
+- 💬 Ask me about **HTML, CSS, JavaScript, Laravel, Filament, React, Breeze, Kotlin, Dart**
 
 - 📫 How to reach me **keenanabigailidn@gmail.com**
 
